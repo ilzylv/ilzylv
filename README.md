@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ilzy</h1>
+<h1 align="center">Hi, I'm Ilzy</h1>
 <h3 align="center">Undergraduate student in Aerospace Engineering from Brazil.</h3>
 
-- 📫 How to reach me **ilzy@outlook.com.br**
+- 📫 How to reach me: **ilzy@outlook.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
